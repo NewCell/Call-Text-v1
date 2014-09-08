@@ -1,3 +1,11 @@
+Call & Text is version 1 of a calling/messaging application for
+Android that was modified to be compatible with NewCell's products
+
+See https://www.newcellsolutions.com/ for more info
+
+Call & Text is a fork from the open source application CSipSimple
+
+
 CSipSimple is an open-source native SIP client for Android
 
 See http://www.csipsimple.com for more info
